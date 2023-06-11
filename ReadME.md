@@ -12,7 +12,7 @@ List of Repositories containing my data science projects completed for academic,
     
     - [Supervised Learning: Parkison's Disease Detection](https://github.com/dalphonorechi/Parkinson-s-Disease-Detection/blob/main/Parkinson's%20Disease%20Detection.ipynb): The aim of the project is to predict if a person has Parkison's Disease using biomedical voice measurements.
 
-    - [Supervised Learning: Predicting Type of Wine](https://github.com/dalphonorechi/blob/main/Wine-Type/Predicting%20Wine%20Type.ipynb): The aim of the project is to predict if the type of wine is red or white using the famous wine quality dataset.
+    - [Supervised Learning: Predicting Type of Wine](https://github.com/dalphonorechi/Wine-Type/blob/main/Predicting%20Wine%20Type.ipynb): The aim of the project is to predict if the type of wine is red or white using the famous wine quality dataset.
     
     - [Unsupervised Learning: Mall Customer Segmentation](https://github.com/dalphonorechi/Mall-Customer-Segmentation/blob/main/CustomerSegmentation.ipynb): Analyzing a dataset containing data on various mall customers.
 
