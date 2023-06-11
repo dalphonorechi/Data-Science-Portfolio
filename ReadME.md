@@ -14,7 +14,7 @@ List of Repositories containing my data science projects completed for academic,
 
     - [Supervised Learning: Predicting Type of Wine](https://github.com/dalphonorechi/data-science-portfolio/Wine-Type/Predicting%20Wine%20Type.ipynb): The aim of the project is to predict if the type of wine is red or white using the famous wine quality dataset.
     
-    - [Unsupervised Learning: Mall Customer Segmentation](https://github.com/dalphonorechi/data-science-portfolio/Mall-Customer-Segmentation/CustomerSegmentation.ipynb): Analyzing a dataset containing data on various mall customers.
+    - [Unsupervised Learning: Mall Customer Segmentation]([https://github.com/dalphonorechi/data-science-portfolio/Mall-Customer-Segmentation/CustomerSegmentation.ipynb](https://github.com/dalphonorechi/Mall-Customer-Segmentation/blob/main/CustomerSegmentation.ipynb): Analyzing a dataset containing data on various mall customers.
 
     _Tools: scikit-learn, xgboost, Pandas, imbalanced-learn, Seaborn, Matplotlib_ 
 
