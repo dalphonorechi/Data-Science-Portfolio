@@ -6,7 +6,7 @@ List of Repositories containing my data science projects completed for academic,
 
 - ### Machine Learning
 
-     - [Supervised Learning: Predict Customer Buying Behavior](https://github.com/dalphonorechi/data-science-portfolio/British-Airways-Virtual-Experience-Program/blob/main/Task-2-Predict-Customer-Buying-Behavior.ipynb): This was the second Task of British Airways Virtual Experience program. Using the provided data we had to predict wether a cutomer would complete a booking.
+     - [Supervised Learning: Predict Customer Buying Behavior](https://github.com/dalphonorechi/data-science-portfolio/British-Airways-Virtual-Experience-Program/blob/main/Predicting%20Customer%20Buying%20Behavior.ipynb): This was the second Task of British Airways Virtual Experience program. Using the provided data we had to predict wether a cutomer would complete a booking.
      
          _Tools: scikit-learn, Pandas, imbalanced-learn, seaborn, matplotlib_
 
@@ -18,26 +18,32 @@ List of Repositories containing my data science projects completed for academic,
     
          _Tools: scikit-learn, xgboost, Pandas, imbalanced-learn, seaborn, matplotlib_
     
-    - [Supervised Learning: Parkison's Disease Detection](https://github.com/dalphonorechi/data-science-portfolio/Parkison-s-Disease/blob/main/Parkison's%20Disease%20Detection.ipynb): The aim of the project is to predict if a person has Parkison's Disease using biomedical voice measurements.
+    - [Supervised Learning: Parkison's Disease Detection](https://github.com/dalphonorechi/Parkison-s-Disease/blob/main/Parkison's%20Disease%20Detection.ipynb): The aim of the project is to predict if a person has Parkison's Disease using biomedical voice measurements.
     
          _Tools: scikit-learn, pandas, seaborn, matplotlib_
 
-    - [Supervised Learning: Predicting Type of Wine](https://github.com/dalphonorechi/data-science-portfolio/Wine-Type/blob/main/Predicting%20Wine%20Type.ipynb): The aim of the project is to predict if the type of wine is red or white using the famous wine quality dataset.
+    - [Supervised Learning: Predicting Type of Wine](https://github.com/dalphonorechi/Wine-Type/blob/main/Predicting%20Wine%20Type.ipynb): The aim of the project is to predict if the type of wine is red or white using the famous wine quality dataset.
     
          _Tools: scikit-learn, pandas, imbalanced-learn, seaborn, matplotlib_
     
-    - [Unsupervised Learning: Mall Customer Segmentation](https://github.com/dalphonorechi/data-science-portfolio/Mall-Customer-Segmentation/blob/main/CustomerSegmentation.ipynb): Analyzing a dataset containing data on various mall customers.
+    - [Unsupervised Learning: Mall Customers Segmentation](https://github.com/dalphonorechi/Mall-Customer-Segmentation/blob/main/CustomerSegmentation.ipynb): Analyzing a dataset containing data on various mall customers.
     
          _Tools: scikit-learn, pandas, KMeans, seaborn, matplotlib_
          
 - ### Natural Language Processing
 
-    - [Unsupervised Learning: Webscrapping and Customer Reviews Analysis](https://github.com/dalphonorechi/data-science-portfolio/British-Airways-Virtual-Experience-Program/blob/main/Task-1-Web-Scrapping-Customer-Reviews-Analysis.ipynb): This was the first task of British Airways Virtual Experience program. Data was scrapped from [Skytrax](https://www.airlinequality.com/airline-reviews/british-airways). The data was customer reviews about british airways airline. The data was cleaned and analysed using NLP techniques such as topic modelling and semantic analysis.
+    - [Webscrapping and Customer Reviews Analysis](https://github.com/dalphonorechi/British-Airways-Virtual-Experience-Program/blob/main/Web%20Scrapping%20Customer%20Reviews%20Analysis.ipynb): This was the first task of British Airways Virtual Experience program. Data was scrapped from [Skytrax](https://www.airlinequality.com/airline-reviews/british-airways). The data was customer reviews about british airways airline. The data was cleaned and analysed using NLP techniques such as topic modelling and semantic analysis.
 
-        _Tools: scikit-learn, pandas, nltk, gensim, wordcloud, vader, LatentDirichletAllocation, seaborn, matplotlib_ 
+        _Tools: scikit-learn, pandas, beautifulsoup, nltk, gensim, wordcloud, vader, LatentDirichletAllocation, seaborn, matplotlib_ 
 
 - ### Data Analysis and Visualization.
 
     * __Power BI__
     
         - [SuperStore Dashboard](https://github.com/dalphonorechi/SuperStore-Sales-Dashboard): These are Power BI reports that analyze the superstore sales data.  
+        
+- ### Micro Projects: 
+
+    - __Python__
+    
+        - [Kafka Producer and Consumer](https://github.com/dalphonorechi/Kafka-Intro/): An introduction to Apache Kafka. Containing a producer thats sends data to a topic and a consumer that reads from th topic. 
