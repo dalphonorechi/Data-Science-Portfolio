@@ -6,7 +6,7 @@ List of Repositories containing my data science projects completed for academic,
 
 - ### Machine Learning
 
-     - [Supervised Learning: Predict Customer Buying Behavior](https://github.com/dalphonorechi/data-science-portfolio/British-Airways-Virtual-Experience-Program/blob/main/Predicting%20Customer%20Buying%20Behavior.ipynb): This was the second Task of British Airways Virtual Experience program. Using the provided data we had to predict wether a cutomer would complete a booking.
+     - [Supervised Learning: Predict Customer Buying Behavior](https://github.com/dalphonorechi/British-Airways-Virtual-Experience-Program/blob/main/Predicting%20Customer%20Buying%20Behavior.ipynb): This was the second Task of British Airways Virtual Experience program. Using the provided data we had to predict wether a cutomer would complete a booking.
      
          _Tools: scikit-learn, Pandas, imbalanced-learn, seaborn, matplotlib_
 
