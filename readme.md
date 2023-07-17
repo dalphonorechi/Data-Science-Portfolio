@@ -52,7 +52,7 @@ List of Repositories containing my data science projects completed for academic,
 
     * __Power BI__
     
-        - [Sprocket Central Dashboard](https://github.com/dalphonorechi/Cognizant-Virtual-Program/blob/main/sprocket_central.pbix): These are Power BI reports from Task 3 of KPMG Virtual Internship Program, that analyze the Sprocket Central customer data.
+        - [Sprocket Central Dashboard](https://github.com/dalphonorechi/KPMG-Virtual-Program/blob/main/sprocket_central.pbix): These are Power BI reports from Task 3 of KPMG Virtual Internship Program, that analyze the Sprocket Central customer data.
         
         - [SuperStore Dashboard](https://github.com/dalphonorechi/SuperStore-Sales-Dashboard): These are Power BI reports that analyze the superstore sales data.
         
