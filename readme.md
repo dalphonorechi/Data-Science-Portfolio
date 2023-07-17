@@ -46,7 +46,7 @@ List of Repositories containing my data science projects completed for academic,
 - ### Data Analysis and Visualization.
     * __Python__
     
-        - [Stock Data Analysis](https://github.com/dalphonorechi/Cognizant-Virtual-Program/blob/main/eda_modelling.ipynb): Analyzed Stock data for insights.
+        - [Stock Data Analysis](https://github.com/dalphonorechi/Cognizant-Virtual-Program/blob/main/eda.ipynb): Analyzed Stock data for insights.
         
         - [Data Quality analysis](https://github.com/dalphonorechi/KPMG-Virtual-Program/blob/main/KPMG-DataQuality.docx): Documented data quality issues after analysis.
 
