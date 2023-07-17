@@ -1,4 +1,4 @@
-# Data Science Projects Portfolio
+# Data cience Projects Portfolio
 List of Repositories containing my data science projects completed for academic, self learning, competitions and hobby purposes.They are presented in Jupyter notebooks.
 
 
